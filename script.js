@@ -1,5 +1,5 @@
 		$("document").ready(function() {
-		   	alert("The page just loaded!");
+		   	// alert("The page just loaded!");
 
 		var game = {
 			turn: "X",
